@@ -1,2 +1,2 @@
-worker: python reoBot.py
+worker: python bot.py
 twitter: python randomTweetPicker.py
